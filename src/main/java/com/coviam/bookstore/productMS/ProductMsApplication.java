@@ -8,7 +8,6 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2WebMvc;
 
 @SpringBootApplication
 @EnableFeignClients
-@EnableEurekaClient
 @EnableSwagger2WebMvc
 public class ProductMsApplication {
 
